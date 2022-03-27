@@ -1,0 +1,2 @@
+- im pine
+- just a person trying to learn some coding
