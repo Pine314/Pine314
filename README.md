@@ -1,2 +1,2 @@
-- im pine
-- just a person trying to learn some coding
+- I'm Pine
+- Just a person trying to learn some coding
